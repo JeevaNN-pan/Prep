@@ -10,7 +10,9 @@ ensuring no incorrect financial interpretation. Your solution
 will help the finance team quickly assess any losses that need
 immediate attention.###
 
-
+###Objective: Write a program that takes four integers as input and
+outputs the(SÜm of all negative integers. If there are no negative
+integers, the output should be 0.###
 
 
 
