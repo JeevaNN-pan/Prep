@@ -1,11 +1,11 @@
 ###Imagine you are part of a software development team at a
 tech company, and your manager has assigned you a task
-related t Inancial data anal s• The com an Is accounting
-system has just reporte four eyfinancial metric fora
-project, denoted as a, b, c, and d. However, there is a twist:
-some of these metrics might be negative, indicating a loss.
+related to financial data analysis. The company's accounting
+system has just reported four key financial metrics for a
+project, denoted as a b c and d. However, there is a twist:
+some of these metrics might be negative indicating a loss.
 Your task is to identify and sum up all the negative metrics.
-If there are no negative values, the system should return O,
+there are no negative values, the system should return O,
 ensuring no incorrect financial interpretation. Your solution
 will help the finance team quickly assess any losses that need
 immediate attention.###
